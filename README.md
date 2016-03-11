@@ -4,8 +4,8 @@
 
 ### Аплакація відображає події з сайту dou.ua
 
-<img src="market/device-2016-03-11-154419.png"  style="width: 300px;"/>
-<img src="market/device-2016-03-11-155912.png" style="width: 400px;"/>
-<img src="market/device-2016-03-11-155951.png" style="width: 400px;"/>
+<img src="market/device-2016-03-11-154419.png" width="200">
+<img src="market/device-2016-03-11-155912.png" width="200">
+<img src="market/device-2016-03-11-155951.png" width="200">
 
 

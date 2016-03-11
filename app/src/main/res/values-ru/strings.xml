@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dou События</string>
+    <string name="more">Больше</string>
+    <string name="loading">Загрузка...</string>
+    <string name="map">Карта</string>
+</resources>
